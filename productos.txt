@@ -1,0 +1,5 @@
+[
+    {"title":"Lapiz","price":456,"thumbnail":"url_producto","id":0},
+    {"title":"Cartuchera","price":456,"thumbnail":"url_producto","id":1},
+    {"title":"Borrador","price":456,"thumbnail":"url_producto","id":2}
+]
